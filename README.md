@@ -13,10 +13,10 @@ This program quickly and easily renames any number of output sets based on user 
 
 ![Choose outputs](images/choose.png)
 
-Then the options for new names.
+The next dialog has input options for new new names. The in-dialog text explains the behavior in further detail.
 
 ![Define new names](images/inputs.png)
 
-And the selected outputs are almost instantly renamed to something more useful.
+Click OK and the selected outputs are almost instantly renamed to something more useful.
 
 ![New names](images/results.png)
